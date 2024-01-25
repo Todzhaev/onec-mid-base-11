@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b5094746-b2d9-48b8-921e-e5e90d1a46c4">
+  <producedTypes>
+    <objectType typeId="b28c85a8-3695-4bcb-94aa-b284de8804be" valueTypeId="e149c73f-1312-41ed-bb1b-13a762c57e04"/>
+    <refType typeId="3625eb19-3f81-4dcc-9e21-114ce6212c0c" valueTypeId="bfa5bd1b-ac04-4a4e-87eb-b05934ba70e7"/>
+    <selectionType typeId="a09c0176-44cf-42d2-87d2-c5bd1789aca9" valueTypeId="03bbe156-a78e-498c-8e2b-1bf2a9d7cf04"/>
+    <listType typeId="06d7342d-9b65-45af-804c-e74633470dfb" valueTypeId="81ec7609-9b43-40e0-a692-c64eb33fc1cf"/>
+    <managerType typeId="25877dfc-647f-408c-9de3-9100f51ea3c2" valueTypeId="07beb6ec-2a9e-4e40-9e0d-62a9fcb97148"/>
+  </producedTypes>
+  <name>ТГ_Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности</value>
+  </synonym>
+  <comment>Должность</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ТГ_Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ТГ_Должности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
