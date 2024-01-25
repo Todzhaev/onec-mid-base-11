@@ -12,6 +12,7 @@
   </picture>
   <content>Catalog.ТГ_КонтактныеЛица</content>
   <content>Catalog.ТГ_Должности</content>
+  <content>CommonModule.ТГ_РаботаСФормами</content>
   <subsystems>Справочники</subsystems>
   <subsystems>Операции</subsystems>
 </mdclass:Subsystem>
